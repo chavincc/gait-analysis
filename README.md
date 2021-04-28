@@ -1,6 +1,8 @@
 # gait-analysis
 2020 xd senior project (computer engineering + mechanical engineering)
 
+analyse gait (video of human walking) with 1 camera and vinyl chessboard, reduced from 18+ camera mocap system, capturing gait parameter
+
 # installation
 * download openpose v1.6.0 binary version from https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases. use either gpu or cpu version.
 
